@@ -7,7 +7,7 @@
   "update_behavior": {
     "auto_start_updates": "no",
     "skip_manual_testing": "no",
-    "source_branch": "dev",
+    "source_branch": "master",
     "destination_branch": "updates/[task:id]",
     "handle_packages": "dev_and_prod",
     "create_tasks_for": "all_packages"
